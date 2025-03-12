@@ -1,0 +1,5 @@
+n1=float(input("digite um número"))
+n2=float(input("digite outro número"))
+n3=float(input("digite mais um número"))
+soma=(n1 + n2 + n3)
+print(" a média aritimétrica entre {} {} {} é igual a {}" .format(n1,n2,n3,soma))
